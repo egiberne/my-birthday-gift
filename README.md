@@ -1,12 +1,12 @@
 # Recap
 
-I am grateful to have completed the Birthday Gift Page by applying key web development techniques, including:
+I am grateful to have completed the Birthday Gift Page by applying key web development techniques:
 
-- [ x] Controlling vertical **alignment** and **spacing** using `align-items` in a **flex** container.  
-- [ x] Switching between **horizontal** and **vertical** layouts with `flex-direction: column`.  
-- [ x] Using the **`:hover` pseudo-class** (`div:hover {}`) to add interactive hover effects.  
-- [ x] Applying **background gradients** with `background: linear-gradient()` for smooth vertical transitions.  
-- [ x] Grouping **selectors** (`h1, h2, h3 {}`) to apply shared styles and keep CSS concise.
+- [ x] Controlled vertical **alignment** and **spacing** using `align-items` in a **flex** container.  
+- [ x] Switched between **horizontal** and **vertical** layouts with `flex-direction: column`.  
+- [ x] Used the **`:hover` pseudo-class** (`div:hover {}`) to add interactive hover effects.  
+- [ x] Applied **background gradients** with `background: linear-gradient()` for smooth vertical transitions.  
+- [ x] Grouped **selectors** (`h1, h2, h3 {}`) to apply shared styles and keep CSS concise.
 
 [See my project] https://storied-zuccutto-377095.netlify.app/
 
