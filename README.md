@@ -8,7 +8,7 @@ I am grateful to have completed the Birthday Gift Page by applying key web devel
 - [ x] Applying **background gradients** with `background: linear-gradient()` for smooth vertical transitions.  
 - [ x] Grouping **selectors** (`h1, h2, h3 {}`) to apply shared styles and keep CSS concise.
 
-See my project
+[See my project] https://storied-zuccutto-377095.netlify.app/
 
 ## Getting Started
 Install the dependencies and run the project
